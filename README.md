@@ -12,9 +12,9 @@ CSS3
 
 JavaScript
 
-Live Demo
+## Live Demo
 
-Play the Quiz Game
+[Play the Quiz Game](https://rupeshyadav1014.github.io/quiz-game/)
 
 Features
 
